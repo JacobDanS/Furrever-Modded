@@ -1,0 +1,13 @@
+package korejjamjar.furrevermodded;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid = "kfmm", name = "Furrever Modded", version = "1.0")
+public class FurreverModded {
+	@EventHandler
+	public void preInit(FMLPreInitializationEvent event) {
+		
+	}
+}

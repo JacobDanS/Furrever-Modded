@@ -1,0 +1,15 @@
+[
+{
+  "modid": "kfmm",
+  "name": "Furrever Modded",
+  "description": "A mod for FurretDude.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ThePqtatoGalaxy also known as ItzKORE Gaming"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

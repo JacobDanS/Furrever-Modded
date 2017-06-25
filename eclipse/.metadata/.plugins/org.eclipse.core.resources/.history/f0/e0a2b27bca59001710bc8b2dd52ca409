@@ -1,0 +1,8 @@
+package korejjamjar.furrevermodded;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "kfmm", name = "Furrever Modded", version = "1.0")
+public class FurreverModded {
+
+}
